@@ -1,0 +1,45 @@
+{
+  "button-highlight": {
+    "backgroundColor": "#4388cc",
+    "labelStyle": {
+      "color": "#e3e3e3",
+      "fontSize": "16px"
+    }
+  },
+  "button-normal": {
+    "backgroundColor": "#e3e3e3",
+    "labelStyle": {
+      "color": "#424242",
+      "fontSize": "16px"
+    }
+  },
+  "button-lite": {
+    "labelStyle": {
+      "color": "#424242",
+      "fontSize": "16px"
+    }
+  },
+  "landing-button": {
+    "style": {
+      "display": "block",
+      "marginBottom": "1rem",
+      "width": "80%",
+      "marginLeft": "10%"
+    },
+    "buttonStyle": {
+      "borderRadius": "5px"
+    }
+  },
+  "landing-buttonGroup": {
+    "style": {
+      "marginTop": "2rem",
+      "marginBottom": "2rem"
+    }
+  },
+  "landing-imagegallery": {
+    "style": {
+      "marginTop": "2rem",
+      "marginBottom": "2rem"
+    }
+  }
+}

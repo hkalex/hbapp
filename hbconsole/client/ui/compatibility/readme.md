@@ -1,0 +1,1 @@
+`client/compability` File will be executed first before all other code as **global** scope in client side.

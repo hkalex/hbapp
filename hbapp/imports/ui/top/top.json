@@ -1,0 +1,13 @@
+{
+  "TopBarStyle": {
+    "style": {
+      "width": "100%",
+      "height": "4.4rem",
+      "lineHeight": "4.4rem",
+      "color": "#fff",
+      "backgroundColor": "#4388cc",
+      "textAlign": "center",
+      "fontSize": "2.2rem"
+    }
+  }
+}

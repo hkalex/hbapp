@@ -1,0 +1,159 @@
+{
+    "offplan-home-flatbutton": {
+        "style": {
+            "position": "fixed",
+            "top": "2%",
+            "zIndex": 999999
+        }
+    },
+    "offplan-home-body": {
+        "style": {
+            "marginTop": "64px"
+        }
+    },
+    "offplan-home-container": {
+        "style": {
+            "backgroundColor": "#efefef",
+            "height": "100%"
+        }
+    },
+    "offplan-search-current": {
+        "style": {
+            "color": "red"
+        }
+    },
+    "offplan-search-container": {
+        "style": {
+            "display": "flex"
+        }
+    },
+    "offplan-search-location": {
+        "style": {
+            "flex": "1",
+            "height": "50px"
+        }
+    },
+    "offplan-search-price": {
+        "style": {
+            "flex": 1,
+            "height": "50px",
+            "borderLeft": "1px solid rgb(227,227,227)",
+            "borderRight": "1px solid rgb(227,227,227)"
+        }
+    },
+    "offplan-search-well": {
+        "style": {
+            "display": "flex",
+            "flexDirection": "row",
+            "height": "300px",
+            "overflowY": "hidden"
+        }
+    },
+    "offplan-search-content": {
+        "style": {
+            "maxHeight": "300px",
+            "overflowY": "scroll"
+        }
+    },
+    "offplan-search-collapse": {
+        "style": {
+            "position": "fixed",
+            "left": "0",
+            "top": "114px",
+            "zIndex": "100",
+            "width": "100%",
+            "padding": "0"
+        }
+    },
+    "offplan-search-list": {
+        "style": {
+            "flex": 2,
+            "overflowY": "scroll"
+        }
+    },
+    "offplan-search-composed": {
+        "style": {
+            "flex": 1,
+            "borderRightColor": "#e3e3e3",
+            "borderRightWidth": "1px",
+            "borderRightStyle": "solid",
+            "overflowY": "scroll"
+        }
+    },
+    "offplan-listitem-span": {
+        "style": {
+            "paddingRight": "0.5rem",
+            "color": "#888888"
+        }
+    },
+    "offplan-listitem-floorplan": {
+        "style": {
+            "float": "left",
+            "width": "50%",
+            "borderRight": "1px solid #eee"
+        }
+    },
+    "offplan-listitem-price": {
+        "style": {
+            "float": "left",
+            "width": "50%"
+        }
+    },
+    "offplan-listitem-shortdesc": {
+        "style": {
+            "clear": "both",
+            "borderTop": "1px solid #eee",
+            "padding": "2rem 0.5rem"
+        }
+    },
+    "offplan-listitem-showfloorplan": {
+        "style": {
+            "margin": 0,
+            "padding": "1rem 0 1rem 0.5rem",
+            "backgroundColor": "rgb(277,277,277)"
+        }
+    },
+    "offplan-listitem-showfloorplanp": {
+        "style": {
+            "margin": "0",
+            "fontSize": "14px"
+        }
+    },
+    "offplan-listitem-showprice": {
+        "style": {
+            "textAlign": "center",
+            "lineHeight": "6rem"
+        }
+    },
+    "offplan-listitem-pricespan": {
+        "style": {
+            "color": "red",
+            "fontSize": "20px"
+        }
+    },
+    "offplan-listitem-container": {
+        "style": {
+            "padding": "10px",
+            "paddingBottom": "0px"
+        }
+    },
+    "offplan-listitem-cardtitle": {
+        "style": {
+            "height": "30px",
+            "padding": "0 0 0 16px"
+        },
+        "titleStyle": {
+            "overflow": "hidden",
+            "width": "300px",
+            "textOverflow": "ellipsis",
+            "whiteSpace": "nowrap",
+            "fontSize": "20px",
+            "lineHeight": "30px"
+        }
+    },
+    "offplan-listitem-img": {
+        "style": {
+            "height": "200px"
+        }
+    }
+}

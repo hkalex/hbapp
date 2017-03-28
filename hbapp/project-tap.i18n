@@ -1,0 +1,7 @@
+{
+    "helper_name": "_",
+    "supported_languages": ["zh","en"],
+    "i18n_files_route": "",
+    "cdn_path": null,
+    "preloaded_langs": ["*"]
+}

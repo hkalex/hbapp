@@ -1,0 +1,15 @@
+$height: 114px;
+.special-detail-body {
+  position: fixed;
+  top: 64px;
+  width: 100%;
+  height: calc(100% - #{$height});
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+}
+
+.special-detail-content .special-description * {
+  max-width: 100%;
+  word-wrap: break-word;
+  word-break: break-all;
+}

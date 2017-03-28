@@ -1,0 +1,312 @@
+{
+  "OHAB": {
+    "iconStyleRight": {
+      "marginRight": "6px"
+    }
+  },
+  "OHIconR": {
+    "style": {
+      "color": "#E3E3E3",
+      "fontSize": "2.5rem",
+      "paddingTop": "50%"
+    }
+  },
+  "OHContent": {
+    "style": {
+      "display": "flex",
+      "marginTop": "64px"
+    }
+  },
+  "OHTabs": {
+    "style": {
+      "flex": 2
+    },
+    "tabItemContainerStyle": {
+      "backgroundColor": "white"
+    },
+    "contentContainerStyle": {
+      "backgroundColor": "#efefef",
+      "position": "fixed",
+      "left": 0,
+      "width": "100%",
+      "height": "100%"
+    }
+  },
+  "OHTab": {
+    "style": {
+      "flex": 1,
+      "color": "black"
+    }
+  },
+  "OLRB": {
+    "labelColor": "#424242",
+    "buttonStyle": {
+      "textAlign": "left",
+      "borderBottom": "#e3e3e3 solid 1px"
+    },
+    "labelStyle": {
+      "fontSize": "16px"
+    },
+    "style": {
+      "width": "100%",
+      "height": "40px",
+      "lineHeight": "40px",
+      "marginTop": "15px"
+    }
+  },
+  "OLRBIcon": {
+    "style": {
+      "fontSize": "20px",
+      "marginLeft": "8px",
+      "verticalAlign": "text-bottom"
+    }
+  },
+  "OLRBringht": {
+    "style": {
+      "position": "absolute",
+      "right": "8px",
+      "lineHeight": "40px",
+      "fontSize": "16px"
+    }
+  },
+  "OLRBAgent": {
+    "style": {
+      "marginTop": 0
+    }
+  },
+  "divContainer": {
+    "style": {
+      "position": "fixed",
+      "top": "64px",
+      "width": "100%",
+      "bottom": "0px",
+      "backgroundColor": "#e3e3e3"
+    }
+  },
+  "DetailABop": {
+    "titleStyle": {
+      "fontSize": "16px",
+      "marginLeft": "15px"
+    },
+    "iconStyleRight": {
+      "marginRight": "6px"
+    }
+  },
+  "DetailBody": {
+    "style": {
+      "marginTop": "64px",
+      "width": "100%",
+      "height": "100%",
+      "overflowY": "scroll",
+      "WebkitOverflowScrolling": "touch"
+    }
+  },
+  "DetailTitle": {
+    "style": {
+      "display": "inline-flex",
+      "lineHeight": "50px"
+    }
+  },
+  "DetailP": {
+    "style": {
+      "marginBottom": 0,
+      "fontSize": "18px",
+      "marginLeft": "2rem"
+    }
+  },
+  "DetailSpan": {
+    "style": {
+      "marginLeft": "5rem",
+      "fontSize": "24px",
+      "color": "red"
+    }
+  },
+  "DetailChangeStatus": {
+    "style": {
+      "border": "1px solid red",
+      "borderRadius": "50px",
+      "width": "150px",
+      "height": "50px",
+      "textAlign": "center",
+      "fontSize": "20px",
+      "margin": "5px auto"
+    }
+  },
+  "DetailStatus": {
+    "style": {
+      "lineHeight": "50px"
+    }
+  },
+  "DetailTimeDiv": {
+    "style": {
+      "height": "4.4rem",
+      "borderBottom": "1px solid #eee",
+      "lineHeight": "4.4rem"
+    }
+  },
+  "DetailIcon": {
+    "style": {
+      "margin": "0 1rem",
+      "width": "1.3rem",
+      "height": "1.4rem"
+    }
+  },
+  "DetailTimeSpan": {
+    "style": {
+      "color": "rgb(0, 188, 212)",
+      "marginRight": "2rem"
+    }
+  },
+  "DetailDesc": {
+    "style": {
+      "height": "8.4rem",
+      "borderBottom": "1px solid #eee",
+      "lineHeight": "4.4rem"
+    }
+  },
+  "DetailDescHeight": {
+    "style": {
+      "height": "4.4rem"
+    }
+  },
+  "DetailFPIcon": {
+    "style": {
+      "marginRight": "0.5rem",
+      "fontSize": "16px"
+    }
+  },
+  "DetailFooter": {
+    "style": {
+      "display": "flex",
+      "alignItems": "stretch",
+      "justifyContent": "flex-start",
+      "position": "fixed",
+      "bottom": 0,
+      "width": "100%",
+      "height": "50px",
+      "borderStyle": "solid",
+      "borderColor": "rgb(236, 236, 236)",
+      "borderWidth": "0px",
+      "borderTopWidth": "1px"
+    }
+  },
+  "DetailFooterRB": {
+    "style": {
+      "flex": 1,
+      "borderStyle": "solid",
+      "borderColor": "rgb(236,236,236)",
+      "borderWidth": "0px",
+      "borderRightWidth": "1px",
+      "borderRightColor": "#ADADAD",
+      "height": "100%"
+    },
+    "labelStyle": {
+      "top": "10px",
+      "fontSize": "14px",
+      "color": "#424242"
+    },
+    "backgroundColor": "#E3E3E3"
+  },
+  "DetailFooterRBIcon": {
+    "style": {
+      "display": "block",
+      "position": "absolute",
+      "top": "5px",
+      "left": "37%",
+      "color": "red",
+      "fontSize": "16px"
+    }
+  },
+  "DetailFooterA": {
+    "style": {
+      "height": "100%",
+      "flex": 1
+    }
+  },
+  "DetailFooterARB": {
+    "style": {
+      "height": "100%",
+      "width": "100%",
+      "backgroundColor": "#333",
+      "color": "white"
+    }
+  },
+  "OLIContent": {
+    "style": {
+      "padding": "10px 10px 0"
+    }
+  },
+  "OLICard": {
+    "style": {
+      "height": 110
+    }
+  },
+  "OLICardDiv": {
+    "style": {
+      "display": "flex",
+      "flexDirection": "row"
+    }
+  },
+  "OLICardmedia": {
+    "style": {
+      "width": "30%"
+    }
+  },
+  "OLIImg": {
+    "style": {
+      "height": 110,
+      "padding": "5px"
+    }
+  },
+  "OLICardtext": {
+    "style": {
+      "width": "70%",
+      "padding": 0
+    }
+  },
+  "OLICardtextTitle": {
+    "style": {
+      "fontSize": "24px",
+      "padding": "8px 0 1px 10px",
+      "overflow": "hidden",
+      "width": "220px",
+      "textOverflow": "ellipsis",
+      "whiteSpace": "nowrap"
+    }
+  },
+  "OLICardtextDiv": {
+    "style": {
+      "display": "flex",
+      "justifyContent": "flex-start",
+      "height": "50px"
+    }
+  },
+  "OLICardtextFLdiv": {
+    "style": {
+      "flex": 2,
+      "padding": "14px 0",
+      "height": "100%",
+      "fontSize": "16px"
+    }
+  },
+  "OLICardtextFLIcon": {
+    "style": {
+      "fontSize": "18px",
+      "color": "rgb(0, 188, 212)"
+    }
+  },
+  "OLICardPriceDiv": {
+    "style": {
+      "flex": 1,
+      "padding": "8px 0",
+      "height": "100%",
+      "fontSize": "16px"
+    }
+  },
+  "OLICardPrice": {
+    "style": {
+      "fontSize": "22px",
+      "color": "red"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+    "GDcard": {
+        "style": {
+            "width": "190px"
+        }
+    },
+    "GDcardtitle": {
+        "style": {
+            "height": "30px",
+            "padding": "0 0 0 4px"
+        }
+    },
+    "GDimg": {
+        "style": {
+            "height": "150px",
+            "width": "150px"
+        }
+    },
+    "LSnomore": {
+        "style": {
+            "textAlign": "center",
+            "height": "50px",
+            "lineHeight": "50px"
+        }
+    },
+    "LSload": {
+        "style":
+            {
+                "fontSize": "20px",
+                "textAlign": "center",
+                "height": "50px",
+                "lineHeight": "50px"
+            }
+        
+    }
+}

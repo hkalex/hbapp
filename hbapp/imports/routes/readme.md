@@ -1,0 +1,1 @@
+`/imports/routes` is for React Route.

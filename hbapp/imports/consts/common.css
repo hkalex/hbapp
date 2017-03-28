@@ -1,0 +1,134 @@
+.special-detail-body {
+  position: fixed;
+  top: 64px;
+  width: 100%;
+  height: calc(100% - 114px);
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+}
+
+.special-detail-content .special-description * {
+  max-width: 100%;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+
+
+/* Dots */
+
+.dotsStyle {
+  position: absolute;
+  bottom: 5px;
+  display: block;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-align: center;
+}
+
+.dotsStyle li {
+  position: relative;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin: 0 5px;
+  padding: 0;
+  cursor: pointer;
+}
+
+.dotsStyle li button {
+  font-size: 0;
+  line-height: 0;
+  display: block;
+  width: 20px;
+  height: 20px;
+  padding: 5px;
+  cursor: pointer;
+  color: transparent;
+  border: 0;
+  outline: none;
+  background: transparent;
+}
+
+.dotsStyle li button:hover,
+.dotsStyle li button:focus {
+  outline: none;
+}
+
+.dotsStyle li button:hover:before,
+.dotsStyle li button:focus:before {
+  opacity: 1;
+}
+
+.dotsStyle li button:before {
+  font-family: 'slick';
+  font-size: 10px;
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30px;
+  height: 30px;
+  content: '•';
+  text-align: center;
+  opacity: .25;
+  color: #fff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.dotsStyle li.slick-active button:before {
+  opacity: .75;
+  color: #fff;
+}
+
+
+
+
+
+
+.row {
+  margin-bottom: 1rem
+}
+
+.right-top {
+  position: fixed;
+  font-size: 2.2rem;
+  line-height: 4.4rem;
+  right: 0px;
+  top: 0px;
+  color: white;
+  margin-right: 10px;
+}
+
+.textfield {
+  border-top: 0px;
+  border-right: 0px;
+  border-left: 0px;
+  border-radius: 0px;
+  box-shadow: none;
+  font-size: 16px;
+  height: 35px;
+}
+.textfield.error {
+  border-bottom: 1px red solid
+}
+
+.margin-0 {
+  margin: 0 !important;
+}
+
+.margin-1 {
+  margin: 1rem !important;
+}
+
+.padding-0 {
+  padding: 0 !important;
+}
+.padding-1{
+  padding: 1rem !important;
+}
+
+
+/*# sourceMappingURL=common.css.map */

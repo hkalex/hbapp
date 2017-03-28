@@ -1,0 +1,18 @@
+{
+  
+  "usernew-dropdown": {
+    "style": {
+      "width": "100%"
+    },
+    "underlineStyle":{
+      "margin":"0rem 1rem"
+    }
+  },
+
+  "usernew-smsbutton": {
+    "style": {
+      "lineHeight": "33px",
+      "fontSize": "16px"
+    }
+  }
+}
