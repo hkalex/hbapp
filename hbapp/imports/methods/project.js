@@ -1,6 +1,5 @@
 import { Meteor } from 'meteor/meteor';
-import _ from 'lodash';
-import logger from '../loggers/logger';
+
 import Favorite from '/imports/db/favorites';
 import Project from '/imports/db/projects';
 

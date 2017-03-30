@@ -1,4 +1,4 @@
 {
-  "GoogleKey": "XXX",
-  "Port": "5000"
+  "googleKey": "XXX",
+  "port": "5000"
 }

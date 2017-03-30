@@ -1,9 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Routes from '../../imports/routes/routes';
 import { Meteor } from 'meteor/meteor';
 import injectTapEventPlugin from 'react-tap-event-plugin';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
+
+import Routes from '../../imports/routes/routes';
 
 import '/imports/consts/common.css';
 /**

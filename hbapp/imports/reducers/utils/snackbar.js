@@ -1,5 +1,3 @@
-import logger from '../../loggers/logger';
-
 export default function snackbar(state = {
   message: ''
 }, action = {}) {

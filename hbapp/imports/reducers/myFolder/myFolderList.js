@@ -1,5 +1,3 @@
-import logger from '../../loggers/logger';
-
 export default function myFolderList(state = {
   filter: 'favorites',
   page: 1

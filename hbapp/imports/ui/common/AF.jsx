@@ -6,9 +6,6 @@ import { Meteor } from 'meteor/meteor';
 import { Mongo } from 'meteor/mongo';
 import { AutoForm } from 'meteor/aldeed:autoform';
 import { Spacebars } from 'meteor/spacebars';
-import _ from 'lodash';
-
-// import logger from '../../loggers/logger';
 
 import CollectionBase from '/imports/db/CollectionBase';
 

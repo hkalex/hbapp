@@ -1,5 +1,3 @@
-import logger from '../../loggers/logger';
-
 export default function activityList(state = {
   filter: {location: {text: '不限', code: 'ALL'} },
   page: 1

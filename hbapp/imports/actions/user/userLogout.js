@@ -1,7 +1,5 @@
 import {Meteor} from 'meteor/meteor';
-import logger from '../../loggers/logger';
 import { browserHistory } from 'react-router';
-
 
 
 /**

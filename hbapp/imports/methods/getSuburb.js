@@ -1,5 +1,3 @@
-import { Meteor } from 'meteor/meteor';
-
 import Postcodes from '/imports/db/postcodes';
 
 export default function getSuburb(inputValue = '') {

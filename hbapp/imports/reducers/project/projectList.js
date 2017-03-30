@@ -1,5 +1,3 @@
-import logger from '../../loggers/logger';
-
 export default function projectList(state = {
   filter: { location: {city: 'ALL', country: 'ALL', title: '不限'},
             price: {fromPrice: '-1', toPrice: '0', range: '不限'},

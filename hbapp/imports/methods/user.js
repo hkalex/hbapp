@@ -1,7 +1,6 @@
 import { Meteor } from 'meteor/meteor';
 import { Accounts } from 'meteor/accounts-base';
 
-// import {Users} from '../db/collection';
 import logger from '../loggers/logger';
 
 export function getUserIdForLogin(payload) {

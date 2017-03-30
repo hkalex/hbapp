@@ -1,5 +1,3 @@
-import logger from '../../loggers/logger';
-
 export default function infoList(state = {
   filter: { location: {text: '不限', code: 'ALL'},
             classes: {title:'不限',code:'ALL'}

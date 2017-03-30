@@ -1,5 +1,3 @@
-import logger from '../../loggers/logger';
-
 export default function offPlanList(state = {
   filter: {
     location: { city: 'ALL', country: 'ALL', title: '不限' },
